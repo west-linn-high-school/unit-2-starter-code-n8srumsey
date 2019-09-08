@@ -1,5 +1,6 @@
 /**
- * Jabberwocky assignment.
+ * Jabberwocky.java
+ * Created for Jabberwocky assignment - prints the poem
  *
  * @author Nate Rumsey
  * @version 1.0
