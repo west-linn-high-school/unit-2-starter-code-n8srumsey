@@ -1,5 +1,9 @@
 /**
+ * Geometry.java
+ * Created for 'Geometry - try this' activity. Does varias geometry calculations.
  *
+ * @author Nate Rumsey
+ * @version 1.0
  */
 public class Geometry {
     public static void main(String[] args) {
