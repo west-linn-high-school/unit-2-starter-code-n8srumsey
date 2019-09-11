@@ -13,6 +13,6 @@ public class Geometry {
         System.out.println("A heptagon has " + sides + " sides.");
         System.out.println("A decagon has " + 2 * radius + " sides.");
         System.out.println("A dodecagon has " + (radius + sides) + " sides.");
-        System.out.println("The circumfrence of a circle with a radius of " + radius + " is " + ((double) 2 * PI * radius));
+        System.out.println("The circumfrence of a circle with a radius of " + radius + " is " + (2 * PI * radius));
     }
 }
