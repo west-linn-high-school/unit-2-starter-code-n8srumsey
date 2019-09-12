@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.text.DecimalFormat;
+// import java.text.DecimalFormat;
 
 /**
  * Write a description of class ScanPractice here.
