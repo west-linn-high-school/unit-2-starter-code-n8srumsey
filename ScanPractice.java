@@ -12,14 +12,14 @@ public class ScanPractice
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter a line of text:");
-        
+
         String word = scan.next();
-        
+
         String line = scan.nextLine();
-        
+        //http://www.istss.org/public-resources/what-is-childhood-trauma/remembering-childhood-trauma.aspx
         System.out.println(word);
         System.out.println(line);
-        
+
         // DecimalFormat fmt = new DecimalFormat("0.###");
         // System.out.println("A formatted decimal: " + fmt.format(15.2346672));
         // fmt.applyPattern("0.#");
